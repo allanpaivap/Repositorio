@@ -1,4 +1,4 @@
 # Repositorio
- Projetos de estudos Frontend.
+ Projetos de estudos em Frontend.
 
  Calculadora IMC
